@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: Running this binary yields the fastest duration of runtime when implemented on any of the sorted .txt files.
+
+sort2 uses: Merge
+
+How do you know?: This binary's runtime proves most quick when implemented on the .txt files that do not happen to be sorted.
+
+sort3 uses: Selection
+
+How do you know?: Slowest binary running over the .txt files that do not happen to be sorted.
